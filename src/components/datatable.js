@@ -50,10 +50,10 @@ class Datatable extends Component{
                                     {
                                         Header: 'Salario',
                                         accessor: 'salary',
-                                        getProps: (state, rowInfo, column, instance) => {
+                                        // getProps: (state, rowInfo, column, instance) => {
                                             
-                                        }
-                                    }
+                                        // }
+                                    }   
                                 ]
                             }
                         ]
